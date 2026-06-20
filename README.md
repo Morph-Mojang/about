@@ -3,8 +3,8 @@ Thursday 3:40 2024 October
 
 ## Stuff
 ### Links
-- Builder+ Mod [Mod Download](https://modrinth.com/project/cUq9U3DK) [Wiki](https://morph-mojang.github.io/Builder-/) [Report Issues](https://github.com/morph-mojang/Builder-/issues)
-- Nokium Mod [Mod Download](https://modrinth.com/project/tenwpWAl)
+- Builder+ Mod [Mod Download](https://modrinth.com/project/cUq9U3DK#download) [Wiki](https://morph-mojang.github.io/Builder-/) [Report Issues](https://github.com/morph-mojang/Builder-/issues)
+- Nokium Mod [Mod Download](https://modrinth.com/project/tenwpWAl#download)
 
 ### Emojis
 ඞ ☃ ⭐ ☁️
