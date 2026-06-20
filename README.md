@@ -7,8 +7,8 @@ Thursday 3:40 2024 October
 - Nokium Mod [Mod Download](https://modrinth.com/project/tenwpWAl#download)
 
 ### Emojis
-⭐ ☁️ ❤ 🌀 🛜 ♾ 💫 🧪
-® © ※ ⁜ ⁂ ඞ ☃ ⌁ ⌂ ⌀ µ ⁇ ⁈ ‼ ‽ ⸘ ¿ ¡ ₷ ₯ ₳ ₠ ℳ ™
+- ⭐ ☁️ ❤ 🌀 🛜 ♾ 💫 🧪
+- ® © ※ ⁜ ⁂ ඞ ☃ ⌁ ⌂ ⌀ µ ⁇ ⁈ ‼ ‽ ⸘ ¿ ¡ ₷ ₯ ₳ ₠ ℳ ™
 
 ### Images
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/3f84b737-2d12-49c0-9df3-df039e8723d8" />
